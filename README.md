@@ -30,7 +30,7 @@ keep going down until you see a line similar to this
 
 At the end of it add ``` single ``` .
 
-* The idea is to enter ``` single user ``` mode so it be possible to rest the VM password
+* The idea is to enter ``` single user ``` mode so it be possible to reset the VM password
 
 after adding ```single``` to the line mentioned earlier it will look something like this:
 
