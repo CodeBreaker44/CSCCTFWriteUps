@@ -1,16 +1,16 @@
-﻿# CSCCTFWriteUps
+# CSCCTFWriteUps
 
 #Reset my VM!!
 
-Fisrt thing when you boot up the image of the machine you will need to enter a password for the user like this:
+First thing when you boot up the image of the machine you will need to enter a password for the user like this:
 
 ![image](https://user-images.githubusercontent.com/89404773/211173893-03de046d-4988-4080-94fa-b6c35e79dce7.png)
 
 
 
-of cousre you wont be able to gain access to it so just like the name of the challenge you need to reset the VM password
+of course, you won’t be able to gain access to it so just like the name of the challenge you need to reset the VM password
 
-to do that first reset the vm to access the boot up menu for the machine:
+to do that first reset the VM to access the boot up menu for the machine:
 
 ![image](https://user-images.githubusercontent.com/89404773/211173946-21e95245-ac28-4e54-8ac0-115e67e58988.png)
 
@@ -24,15 +24,15 @@ An editor like this will show:
 
 ![image](https://user-images.githubusercontent.com/89404773/211174042-e4562765-2a96-42ff-89b7-fdf3652fb419.png)
 
-keep gowing down until you see a line similar to this 
+keep going down until you see a line similar to this 
 
 ``` linux /boot/vmlinux-3.13...-generic root=UUID=<uuid> ro ```
 
 At the end of it add ``` single ``` .
 
-* The idea is to enter ``` single user ``` mode so it be possible to rest the VM pasword
+* The idea is to enter ``` single user ``` mode so it be possible to rest the VM password
 
-after adding ```single``` to the line mentioned erailer it will look something like this:
+after adding ```single``` to the line mentioned earlier it will look something like this:
 
 ![image](https://user-images.githubusercontent.com/89404773/211174131-d16f0958-d9fb-4438-9074-2d076153fe74.png)
 
@@ -44,7 +44,7 @@ you will be presented with a console and the root prompt (#): use the passwd com
 
 ![image](https://user-images.githubusercontent.com/89404773/211174172-454990fb-813e-4c8d-ab0e-8eb1232d8856.png)
 
-hit ``` Ctrel + d ``` to reboot the machine
+hit ``` CTRL + d ``` to reboot the machine
 
 enter the new password you created, the machine will be unlocked and the flag will be the wallpaper of the machine:
 
