@@ -14,7 +14,7 @@ to do that first reset the VM to access the boot up menu for the machine:
 
 ![image](https://user-images.githubusercontent.com/89404773/211173946-21e95245-ac28-4e54-8ac0-115e67e58988.png)
 
-then while the machine is booting up press and hold the shift button, after that you will be promoted to the following screen:
+then while the machine is booting up press and hold the ``` shift ``` button, after that you will be promoted to the following screen:
 
 ![image](https://user-images.githubusercontent.com/89404773/211173982-3dbdaac4-13d2-4994-832e-5a8795b72ee9.png)
 
