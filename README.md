@@ -18,7 +18,7 @@ then while the machine is booting up press and hold the ``` shift ``` button, af
 
 ![image](https://user-images.githubusercontent.com/89404773/211173982-3dbdaac4-13d2-4994-832e-5a8795b72ee9.png)
 
-With the list of options available, hit the e key.
+With the list of options available, hit the ``` e ``` key.
 
 An editor like this will show:
 
