@@ -1,6 +1,6 @@
 # CSCCTFWriteUps
 
-#Reset my VM!!
+##Reset my VM!!
 
 First thing when you boot up the image of the machine you will need to enter a password for the user like this:
 
